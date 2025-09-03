@@ -1,3 +1,11 @@
+<hr>
+
+> [!WARNING]
+> **This WM fork was to handle some dependency package issues.**
+> These have been resolved, so we have switched back to upstream.
+
+<hr>
+
 [![safety](https://cdn.safetycli.com/images/cli_readme_header.png)](https://docs.safetycli.com/)
 
 [![Downloads](https://static.pepy.tech/badge/safety/month)](https://pepy.tech/project/safety)
